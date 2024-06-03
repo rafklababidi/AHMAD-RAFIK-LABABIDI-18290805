@@ -1,0 +1,12 @@
+[
+    {
+      "image": "ads1.jpg"
+    },
+    {
+        "image": "../assets/ads2.jpg"
+    },
+    {
+        "image": ".././assets/ads3.jpg"
+    }
+  ]
+  

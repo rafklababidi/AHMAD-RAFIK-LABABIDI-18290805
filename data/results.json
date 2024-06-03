@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "image": "../assets/ads2.jpg",
+    "title": "Car",
+    "price": "$10,000",
+    "details": "Used, Red",
+    "datePublished": "2024-04-15",
+    "views": "350",
+    "category": "Automotive",
+    "specifications": {
+      "Brand": "Toyota",
+      "Model": "Camry",
+      "Year": 2018,
+      "Mileage": "50,000 miles",
+      "Condition": "Used",
+      "Color": "Red",
+      "Transmission": "Automatic",
+      "Fuel Type": "Petrol"
+    }
+  },
+  {
+    "id": 2,
+    "image": "../assets/ads3.jpg",
+    "title": "Smartphone",
+    "price": "$599",
+    "details": "New, Black",
+    "datePublished": "2024-04-14",
+    "views": "500",
+    "category": "Electronics",
+    "specifications": {
+      "Brand": "Samsung",
+      "Model": "Galaxy S22",
+      "Storage": "256GB",
+      "RAM": "8GB",
+      "Display Size": "6.5 inches",
+      "OS": "Android 12",
+      "Camera": "Triple Camera Setup (50MP + 12MP + 8MP)",
+      "Battery": "5000 mAh"
+    }
+  },
+  {
+    "id": 3,
+    "image": "../assets/ads4.jpg",
+    "title": "Laptop",
+    "price": "$999",
+    "details": "New, Silver",
+    "datePublished": "2024-04-13",
+    "views": "200",
+    "category": "Electronics",
+    "specifications": {
+      "Brand": "Apple",
+      "Model": "MacBook Pro",
+      "Processor": "Apple M1",
+      "RAM": "16GB",
+      "Storage": "512GB SSD",
+      "Display": "13.3 inches Retina Display",
+      "Graphics": "Integrated Apple GPU",
+      "Operating System": "macOS Monterey",
+      "Ports": "Thunderbolt 4 (USB-C) x4, HDMI, SDXC Card Slot",
+      "Battery": "Up to 17 hours"
+    }
+  },
+  {
+    "id": 4,
+    "title": "House",
+    "price": "$500,000",
+    "details": "3 bedrooms, 2 bathrooms",
+    "datePublished": "2024-04-14",
+    "views": "500",
+    "category": "Property"
+  }
+]
